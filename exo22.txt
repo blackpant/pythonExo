@@ -1,0 +1,13 @@
+open(file, '')
+file.seek()
+file.write()
+file.read()
+file.readline()
+definition de fonction
+"return" mot clé dans les fonctions
+print "décimal : %d" % chiffre
+print "string : %s" % stringV
+print "anything like it is : %r " % anythingV
+script, variable = argv #pour récup une variable apres le nom d'une script comme "python script -r" par exemple
+try/except #except that i learn it myself.
+
